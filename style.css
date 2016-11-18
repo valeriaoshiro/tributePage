@@ -1,0 +1,40 @@
+.container-fluid {
+  margin-top: 40px; 
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+  
+figure {
+  background-color: white;
+  width: 80%;
+  margin: 0 auto;
+}
+img {
+  width: 99%;
+}
+figcaption {
+  padding: 1%;
+}
+.content {
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+hr {
+  margin-top: 4%;
+}
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .container-fluid {
+      margin-left: 1%;
+      margin-right: 1%;
+    }
+    .content {
+      margin-top: 5%;
+      margin-left: 5%;
+      margin-right: 5%;
+    }
+}
