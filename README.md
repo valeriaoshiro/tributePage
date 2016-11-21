@@ -1,6 +1,8 @@
 # Shakira's Tribute Page 
 Completed August 24, 2016
 
+This is a tribute page to Shakira. The project includes an image of her with a caption. It has a timeline of her discography, showned in an unordered list. The dates in the timeline are in bold. It also shows a quote from her, and at the bottom, there is a link to her Wikipedia entry.
+
 
 ## Requirements
 - I can view a tribute page with an image and text.
